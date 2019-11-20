@@ -4,7 +4,7 @@
      "firstname": "costruzione-1",   
      "bio": "un castellone bello grande",
      "imgSrc": "costruzione-1.jpg",
-     "imgSrc1":["istruzioni-1","istruzioni-2","istruzioni-3"],
+     "imgSrc1":["istruzioni-1.jpg","istruzioni-2.jpg","istruzioni-3.jpg"],
      "id": "c1"
    },
 
@@ -12,7 +12,7 @@
      "firstname": "costruzione-2",
      "bio": "castellone un po' piu piccolo ma cazzuto",
      "imgSrc": "costruzione-2.jpg",
-     "imgSrc1":["istruzioni-1","istruzioni-2","istruzioni-3"],
+     "imgSrc1":["istruzioni-1.jpg","istruzioni-2.jpg","istruzioni-3.jpg"],
      "id": "c2"
      
    },
@@ -21,7 +21,7 @@
      "firstname": "costruzione-3",
      "bio":"questo è proprio cazzuto",
      "imgSrc": "costruzione-3.jpg",
-     "imgSrc1":["istruzioni-1","istruzioni-2","istruzioni-3"],
+     "imgSrc1":["istruzioni-1.jpg","istruzioni-2.jpg","istruzioni-3.jpg"],
      "id": "c3"
    }
  ]
